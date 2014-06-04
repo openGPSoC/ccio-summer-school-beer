@@ -1,5 +1,5 @@
-ccio-summer-school-beer
-=======================
+ccio-summer-school-beer#1
+=========================
 
 open source beer recipe for the beers made for the EHI CCIO summer school
 
