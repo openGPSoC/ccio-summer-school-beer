@@ -5,7 +5,7 @@ open source beer recipe for the beers made for the EHI CCIO summer school
 
 MIT license: do as you will
 
-use beer making vessel as described in my Instructable (URL to follow when I've written said Instructable)
+use beer making vessel as described in my Instructable http://www.instructables.com/id/Simple-Self-filter-Mash-Tun-for-All-grain-Beer/
 
 1. fill heatproof beer making vessel with 20L cold water
 1. heat this water to 65.5 degrees celcius
